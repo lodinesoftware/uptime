@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://lodine.xyz
     icon: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png
-  - name: CDN
+  - name: Content Delivery Network
     url: https://cdn.lodine.xyz
     icon: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png
     expectedStatusCodes:
