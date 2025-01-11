@@ -5,18 +5,22 @@ repo: uptime # The name of this repository
 sites:
   - name: Website
     url: https://lodine.xyz
+    logoUrl: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png
   - name: CDN
     url: https://cdn.lodine.xyz
+    logoUrl: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png
     expectedStatusCodes:
       - 404
   - name: StopMalwareContent API
+    logoUrl: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/smc.png
     url: https://smc-api.lodine.xyz
 
 status-website:
   cname: status.lodine.xyz
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png
   name: Lodine Services Uptime
-  introTitle: "Official status page for our projects and services."  navbar:
+  introTitle: "Official status page for our projects and services."
+  navbar:
     - title: Status
       href: /
     - title: GitHub
