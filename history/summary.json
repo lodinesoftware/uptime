@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 203,
+    "timeDay": 203,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://cdn.lodine.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.lodine.xyz.ico",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "6.80%",
-    "uptimeDay": "6.80%",
-    "uptimeWeek": "6.80%",
-    "uptimeMonth": "6.80%",
-    "uptimeYear": "6.80%",
-    "time": 592,
-    "timeDay": 592,
-    "timeWeek": 592,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "status": "up",
+    "uptime": "29.09%",
+    "uptimeDay": "29.09%",
+    "uptimeWeek": "29.09%",
+    "uptimeMonth": "29.09%",
+    "uptimeYear": "29.09%",
+    "time": 465,
+    "timeDay": 465,
+    "timeWeek": 465,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-01-11": 0
+      "2025-01-11": 8
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 401,
-    "timeWeek": 401,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "time": 486,
+    "timeDay": 486,
+    "timeWeek": 486,
+    "timeMonth": 486,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   }
 ]
