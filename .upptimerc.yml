@@ -18,6 +18,7 @@ sites:
 status-website:
   cname: status.lodine.xyz
   logoUrl: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png
+  favicon: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png
   name: Lodine Services Uptime
   introTitle: "Official status page for our projects and services."
   navbar:
