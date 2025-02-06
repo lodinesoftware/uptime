@@ -22,18 +22,20 @@
     "url": "https://cdn.lodine.xyz",
     "icon": "https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png",
     "slug": "content-delivery-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 366,
-    "timeWeek": 356,
-    "timeMonth": 358,
-    "timeYear": 358,
-    "dailyMinutesDown": {}
+    "time": 349,
+    "timeDay": 232,
+    "timeWeek": 324,
+    "timeMonth": 349,
+    "timeYear": 349,
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   },
   {
     "name": "StopMalwareContent API",
