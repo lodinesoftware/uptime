@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 159,
-    "timeWeek": 206,
-    "timeMonth": 215,
-    "timeYear": 208,
+    "time": 209,
+    "timeDay": 260,
+    "timeWeek": 209,
+    "timeMonth": 218,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png",
     "slug": "content-delivery-network",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.91%",
-    "time": 344,
-    "timeDay": 242,
-    "timeWeek": 224,
+    "uptimeYear": "99.92%",
+    "time": 343,
+    "timeDay": 300,
+    "timeWeek": 239,
     "timeMonth": 356,
-    "timeYear": 344,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2025-02-06": 57
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 224,
-    "timeWeek": 197,
-    "timeMonth": 299,
-    "timeYear": 301,
+    "time": 306,
+    "timeDay": 565,
+    "timeWeek": 254,
+    "timeMonth": 310,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   }
 ]
