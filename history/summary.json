@@ -4,20 +4,18 @@
     "url": "https://lodine.xyz",
     "icon": "https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 222,
-    "timeWeek": 208,
-    "timeMonth": 217,
-    "timeYear": 210,
-    "dailyMinutesDown": {
-      "2025-03-01": 0
-    }
+    "time": 209,
+    "timeDay": 174,
+    "timeWeek": 198,
+    "timeMonth": 214,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Content Delivery Network",
