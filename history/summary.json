@@ -40,19 +40,17 @@
     "url": "https://smc-api.lodine.xyz",
     "icon": "https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/smc.png",
     "slug": "stop-malware-content-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 321,
-    "timeWeek": 367,
-    "timeMonth": 338,
-    "timeYear": 338,
-    "dailyMinutesDown": {
-      "2025-04-28": 0
-    }
+    "time": 340,
+    "timeDay": 404,
+    "timeWeek": 390,
+    "timeMonth": 345,
+    "timeYear": 340,
+    "dailyMinutesDown": {}
   }
 ]
