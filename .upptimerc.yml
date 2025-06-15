@@ -11,9 +11,6 @@ sites:
     icon: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/lodine.png
     expectedStatusCodes:
       - 404
-  - name: StopMalwareContent API
-    icon: https://raw.githubusercontent.com/lodinesoftware/uptime/refs/heads/master/assets/smc.png
-    url: https://smc-api.lodine.xyz
 
 status-website:
   cname: status.lodine.xyz
